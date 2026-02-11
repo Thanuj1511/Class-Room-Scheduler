@@ -10,4 +10,9 @@ Class schedules contain details such as class name, subject, teacher, time, dura
 Students can register for classes, and the system confirms their registration status.
 
 # Class Diagram 
+In our project Administrators and teachers can create, edit, and delete class schedules
+Class schedules contain details such as class name, subject, teacher, time, duration, and location
+Students can register for classes, and the system confirms their registration status.
+
+
 
